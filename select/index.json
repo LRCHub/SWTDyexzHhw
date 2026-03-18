@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アイデア",
   "base_artist": "星野 源",
-  "createdAt": "2026-01-09T17:35:42.171755Z",
+  "createdAt": "2026-03-18T12:40:53.030256Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,43 @@
       "artist": "星野源",
       "has_synced": false,
       "path": "select/pl_01_アイデア_星野源.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アイデア",
+      "artist": "星野 源",
+      "has_synced": true,
+      "path": "select/localdb_01_アイデア_星野_源.lrc",
+      "repo_name": "_BiWjLgAxOY"
+    },
+    {
+      "id": "localdb_dynamic_1",
+      "source": "localdb",
+      "title": "アイデア",
+      "artist": "星野 源",
+      "has_synced": true,
+      "path": "select/localdb_01_アイデア_星野_源.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "_BiWjLgAxOY"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "アイデア",
+      "artist": "星野 源",
+      "has_synced": true,
+      "path": "select/localdb_02_アイデア_星野_源.lrc",
+      "repo_name": "RlUb2F-zLxw"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "アイデア",
+      "artist": "星野 源",
+      "has_synced": false,
+      "path": "select/localdb_03_アイデア_星野_源.txt",
+      "repo_name": "SWTDyexzHhw"
     }
   ]
 }
